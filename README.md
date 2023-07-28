@@ -1,3 +1,17 @@
+# EcommerceFront-App
+This is an ecommerce application template I have created. This application is
+an online store where you can buy different kinds of technical items, such as
+laptops, headphones, mouses, and many more. The UI of this application is
+very appealing and modern-looking, and has animations. By using this site,
+you can filter items through different categories and specifications. You can
+search for items if they are hard to find, you can wishlist items that you can
+buy later, you can review items that you like or dislike, you can set up an
+account and see all your previous transactions, and the next time you log in,
+you won’t have to go through the hassle of filling forms when you need to
+place an order. The site makes it easy for a user to buy items using the add to
+cart feature and also remove them. In order to process transactions, we have
+integrated the site with Stripe payment method.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
