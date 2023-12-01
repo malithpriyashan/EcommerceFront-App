@@ -7,7 +7,7 @@ import BarsIcon from "@/components/icons/Bars";
 import SearchIcon from "@/components/icons/SearchIcon";
 
 const StyledHeader = styled.header`
-  background-color: #222;
+  background-color: #273746;
   position: sticky;
   top: 0;
   z-index: 10;
@@ -39,7 +39,7 @@ const StyledNav = styled.nav`
   left: 0;
   right: 0;
   padding: 70px 20px 20px;
-  background-color: #222;
+  background-color: #273746;
   @media screen and (min-width: 768px) {
     display: flex;
     position: static;
@@ -93,7 +93,7 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wrapper>
-          <Logo href={"/"}>Ecommerce</Logo>
+          <Logo href={"/"}>TECHGOODIES</Logo>
           <StyledNav mobileNavActive={mobileNavActive}>
             <NavLink href={"/"}>Home</NavLink>
             <NavLink href={"/products"}>All products</NavLink>
